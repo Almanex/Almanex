@@ -38,9 +38,9 @@ I am also part of the **[g-ek.com](https://g-ek.com)** project — resource abou
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Almanex/Almanex/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
