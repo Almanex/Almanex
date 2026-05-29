@@ -25,10 +25,13 @@ user@almanex:~$ ./execute_projects.sh
 ### 🚀 Projects & Developments / Проекты и разработки:
 
 💻 **System Utilities & Desktop (Windows):**
-- **[PAS (Portable App Sync)](https://github.com/Almanex/PAS)** — Portable .NET 10 utility for automated backup/restore of Windows apps via Winget.
-- **[Shell Image Viewer](https://github.com/Almanex/Classic-Windows-image-viewer-for-Windows-11)** — Lightweight C++ loader that restores the classic "Windows Photo Viewer" to Win 10/11.
-- **[Ru-translation-privatezilla](https://github.com/Almanex/Ru-translation-privatezilla)** — Russian localization for the Privatezilla privacy tool.
+- **[Gemma Local Desktop](https://github.com/Almanex/Gemma-Local-Desktop-)** — Native Windows AI assistant and offline workspace with real-time web-preview, powered by local Gemma.
+- **[WingetTrayUpdater](https://github.com/Almanex/Winget-Tray-Updater)** — Lightweight tray utility for automated Winget package update checks and toast notifications.
+- **[PAS (Portable App Sync)](https://github.com/Almanex/Portable-App-Sync)** — Portable .NET 10 utility for automated backup/restore of Windows apps via Winget.
+- **[Shell Image Viewer](https://github.com/Almanex/Classic-Windows-image-viewer-for-Windows-11)** — Lightweight C++ loader that restores classic "Windows Photo Viewer" to Win 10/11.
+- **[Roke](https://github.com/Almanex/Rokey)** — C++ keyboard layout converter (EN ↔ RU) with automatic text replacement via hotkey (Ctrl+Shift+Q).
 - **[AutoLayoutSwitch](https://github.com/Almanex/AutoLayoutSwitch)** — C# utility for automatic keyboard layout switching.
+- **[Ru-translation-privatezilla](https://github.com/Almanex/Ru-translation-privatezilla)** — Russian localization for the Privatezilla privacy tool.
 
 🌐 **Web & Mobile:**
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
