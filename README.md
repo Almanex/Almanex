@@ -1,19 +1,27 @@
-# Hi, I'm Alex (Almanex)! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=%3E_++Hello,+I'm+Alex+(Almanex);%3E_++Automating+the+routine,+one+script+at+a+time.;%3E_++C%23+%7C+C%2B%2B+%7C+Windows+Internals" alt="Typing SVG" />
+</div>
 
-I am a developer, enthusiast, and creator of system utilities, scripts, and useful tools. I specialize in building portable Windows applications (C#, C++) as well as web development (PHP, Docker). 
+```text
+user@almanex:~$ cat info.txt
+Name: Alex (Almanex)
+Role: Developer, System Utility Creator
+Focus: Portable Windows Applications (C#, C++), Web (PHP, Docker)
+Project: g-ek.com (Windows, Technology, Software)
+```
 
-I am also part of the **[g-ek.com](https://g-ek.com)** project — resource about Windows, technology, and software.
-
----
-
-### 🛠 Tech Stack:
-
+```text
+user@almanex:~$ ls -l ./tech-stack
+```
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,kotlin,java,docker,windows&theme=dark" />
   </a>
 </p>
 
+```text
+user@almanex:~$ ./execute_projects.sh
+```
 ### 🚀 Projects & Developments / Проекты и разработки:
 
 💻 **System Utilities & Desktop (Windows):**
@@ -23,31 +31,21 @@ I am also part of the **[g-ek.com](https://g-ek.com)** project — resource abou
 - **[AutoLayoutSwitch](https://github.com/Almanex/AutoLayoutSwitch)** — C# utility for automatic keyboard layout switching.
 
 🌐 **Web & Mobile:**
-
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
 
----
-
-### 📊 GitHub Stats / Статистика:
-
+```text
+user@almanex:~$ top -u almanex
+```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almanex&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almanex&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Almanex&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almanex&layout=compact&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Almanex/Almanex/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <i>"Automating the routine, one script at a time."</i>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Almanex&color=blue&style=flat-square&label=Profile+Views)
+```text
+user@almanex:~$ exit
+logout
+```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Almanex&color=41ff00&style=flat-square&label=Profile+Views" />
+</div>
