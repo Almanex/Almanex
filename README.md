@@ -38,8 +38,8 @@ user@almanex:~$ ./execute_projects.sh
 user@almanex:~$ top -u almanex
 ```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almanex&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almanex&layout=compact&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Almanex&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Almanex&layout=compact&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
 </p>
 
 ```text
