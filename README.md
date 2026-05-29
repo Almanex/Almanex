@@ -35,11 +35,14 @@ user@almanex:~$ ./execute_projects.sh
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
 
 ```text
-user@almanex:~$ top -u almanex
+user@almanex:~$ taskmgr.exe
 ```
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Almanex&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Almanex&layout=compact&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000&hide_border=true" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/task-manager.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Almanex/Almanex/output/task-manager.svg">
+    <img alt="Windows Task Manager Performance" src="https://raw.githubusercontent.com/Almanex/Almanex/output/task-manager.svg">
+  </picture>
 </p>
 
 ```text
