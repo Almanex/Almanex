@@ -26,14 +26,16 @@ user@almanex:~$ ./execute_projects.sh
 
 💻 **System Utilities & Desktop (Windows):**
 - **[Gemma Local Desktop](https://github.com/Almanex/Gemma-Local-Desktop-)** — Native Windows AI assistant and offline workspace with real-time web-preview, powered by local Gemma.
-- **[WingetTrayUpdater](https://github.com/Almanex/Winget-Tray-Updater)** — Lightweight tray utility for automated Winget package update checks and toast notifications.
+- **[ShortcutDock](https://github.com/Almanex/ShortcutDock)** — Custom quick-launch panel for Windows 11 with Mica/Acrylic effects and Drag-and-Drop support.
+- **[IconForge](https://github.com/Almanex/icoboo)** — Native Windows utility (WinUI 3) for batch generating Windows `.ico` and Android Adaptive/Legacy icons.
+- **[Screentation](https://github.com/Almanex/Screentation)** — Lightweight desktop app (React + Electron) for capturing, annotating, and batch-saving screenshots.
 - **[PAS (Portable App Sync)](https://github.com/Almanex/Portable-App-Sync)** — Portable .NET 10 utility for automated backup/restore of Windows apps via Winget.
 - **[Shell Image Viewer](https://github.com/Almanex/Classic-Windows-image-viewer-for-Windows-11)** — Lightweight C++ loader that restores classic "Windows Photo Viewer" to Win 10/11.
 - **[Roke](https://github.com/Almanex/Rokey)** — C++ keyboard layout converter (EN ↔ RU) with automatic text replacement via hotkey (Ctrl+Shift+Q).
-- **[AutoLayoutSwitch](https://github.com/Almanex/AutoLayoutSwitch)** — C# utility for automatic keyboard layout switching.
 - **[Ru-translation-privatezilla](https://github.com/Almanex/Ru-translation-privatezilla)** — Russian localization for the Privatezilla privacy tool.
 
 🌐 **Web & Mobile:**
+- **[LingoSpaced](https://github.com/Almanex/LingoSpaced-)** — Spaced repetition German language learning app for Android 16 (Kotlin) with dynamic HSL themes.
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
 
