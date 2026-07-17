@@ -40,9 +40,6 @@ user@almanex:~$ ./execute_projects.sh
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
 
-🤖 **AI & Agent Extensions:**
-- **[Antigravity Skill Vault](https://github.com/Almanex/antigravity-skills)** — A curated collection of 300+ specialized agent skills, repeatable workflows, and domain expertise packages for Google Antigravity.
-
 ```text
 user@almanex:~$ taskmgr.exe
 ```
