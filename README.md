@@ -55,6 +55,3 @@ user@almanex:~$ taskmgr.exe
 user@almanex:~$ exit
 logout
 ```
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Almanex&color=41ff00&style=flat-square&label=Profile+Views" />
-</div>
