@@ -26,19 +26,26 @@ user@almanex:~$ ./execute_projects.sh
 
 💻 **System Utilities & Desktop (Windows):**
 - **[Gemma Local Desktop](https://github.com/Almanex/Gemma-Local-Desktop-)** — Native Windows AI assistant and offline workspace with real-time web-preview, powered by local Gemma.
+- **[DevDeck](https://github.com/Almanex/DevDeck)** — High-performance WinUI 3 dashboard & background daemon for managing WSL distributions, Docker, and developer environments.
+- **[FlowGuide](https://github.com/Almanex/FlowGuide)** — Interactive step-by-step guide recording and playback system for Windows applications.
+- **[Seogeek](https://github.com/Almanex/Seogeek)** — Professional local desktop app for Windows 11 for technical & SEO website auditing with AI recommendations.
 - **[ShortcutDock](https://github.com/Almanex/ShortcutDock)** — Custom quick-launch panel for Windows 11 with Mica/Acrylic effects and Drag-and-Drop support.
 - **[Screentation-V2](https://github.com/Almanex/Screentation-V2)** — Native Windows screenshot annotator and editor built on WinUI 3 and Win2D (GPU-accelerated).
-- **[IconForge](https://github.com/Almanex/icoboo)** — Native Windows utility (WinUI 3) for batch generating Windows `.ico` and Android Adaptive/Legacy icons.
+- **[SnapIcon](https://github.com/Almanex/SnapIcon)** — Native Windows utility (WinUI 3) for batch generating Windows `.ico` and Android Adaptive/Legacy icons.
 - **[Screentation](https://github.com/Almanex/Screentation)** — Lightweight desktop app (React + Electron) for capturing, annotating, and batch-saving screenshots.
 - **[PAS (Portable App Sync)](https://github.com/Almanex/Portable-App-Sync)** — Portable .NET 10 utility for automated backup/restore of Windows apps via Winget.
 - **[Shell Image Viewer](https://github.com/Almanex/Classic-Windows-image-viewer-for-Windows-11)** — Lightweight C++ loader that restores classic "Windows Photo Viewer" to Win 10/11.
 - **[Roke](https://github.com/Almanex/Rokey)** — C++ keyboard layout converter (EN ↔ RU) with automatic text replacement via hotkey (Ctrl+Shift+Q).
 - **[Ru-translation-privatezilla](https://github.com/Almanex/Ru-translation-privatezilla)** — Russian localization for the Privatezilla privacy tool.
 
-🌐 **Web & Mobile:**
+🌐 **Web, AI & Mobile:**
+- **[HabaNada](https://github.com/Almanex/HabaNada)** — Chrome Extension for AI-powered ad blocking and element cleaning using built-in Gemini Nano.
+- **[antigravity-skills](https://github.com/Almanex/antigravity-skills)** — A curated collection of Agent Skills for Google Antigravity.
+- **[deutscher-lerner](https://github.com/Almanex/deutscher-lerner)** — Interactive web application for learning the German language (TypeScript).
 - **[LingoSpaced](https://github.com/Almanex/LingoSpaced-)** — Spaced repetition German language learning app for Android 16 (Kotlin) with dynamic HSL themes.
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
+- **[Webpconverter](https://github.com/Almanex/Webpconverter)** — PHP image optimization component and WEBP converter for MODX 3.
 
 ```text
 user@almanex:~$ taskmgr.exe
