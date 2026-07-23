@@ -40,7 +40,6 @@ user@almanex:~$ ./execute_projects.sh
 
 🌐 **Web, AI & Mobile:**
 - **[HabaNada](https://github.com/Almanex/HabaNada)** — Chrome Extension for AI-powered ad blocking and element cleaning using built-in Gemini Nano.
-- **[antigravity-skills](https://github.com/Almanex/antigravity-skills)** — A curated collection of Agent Skills for Google Antigravity.
 - **[deutscher-lerner](https://github.com/Almanex/deutscher-lerner)** — Interactive web application for learning the German language (TypeScript).
 - **[LingoSpaced](https://github.com/Almanex/LingoSpaced-)** — Spaced repetition German language learning app for Android 16 (Kotlin) with dynamic HSL themes.
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
