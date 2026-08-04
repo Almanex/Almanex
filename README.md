@@ -41,7 +41,9 @@ user@almanex:~$ ./execute_projects.sh
 🌐 **Web, AI & Mobile:**
 - **[HabaNada](https://github.com/Almanex/HabaNada)** — Chrome Extension for AI-powered ad blocking and element cleaning using built-in Gemini Nano.
 - **[deutscher-lerner](https://github.com/Almanex/deutscher-lerner)** — Interactive web application for learning the German language (TypeScript).
+- **[GlucoMate](https://github.com/Almanex/GlucoMate)** — Android application for glucose tracking built with Kotlin.
 - **[LingoSpaced](https://github.com/Almanex/LingoSpaced-)** — Spaced repetition German language learning app for Android 16 (Kotlin) with dynamic HSL themes.
+- **[Modx3-passkeys](https://github.com/Almanex/Modx3-passkeys)** — Passkeys & WebAuthn authentication component for MODX Revolution 3.
 - **[MushroomSpot](https://github.com/Almanex/MushroomSpot)** — Android project built with Kotlin.
 - **[Shelter-fork](https://github.com/Almanex/Shelter-fork)** — Java-based app fork.
 - **[Webpconverter](https://github.com/Almanex/Webpconverter)** — PHP image optimization component and WEBP converter for MODX 3.
